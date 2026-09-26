@@ -16,10 +16,10 @@ I am studying HSK 4 step by step and using this repository to organize and share
 
 * Lesson 1
 * Lesson 2
-* Lesson 2 Grammar Points
-* Lesson 1 Test
-* Lesson 2 Test
 * Lesson 3
+* Lesson 4
+* Lesson 5
+
   
 More lessons will be added as I continue studying.
 
