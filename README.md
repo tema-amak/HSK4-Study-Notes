@@ -19,7 +19,9 @@ I am studying HSK 4 step by step and using this repository to organize and share
 * Lesson 3
 * Lesson 4
 * Lesson 5
-
+* Lesson 6
+* Lesson 7
+* Lesson 8 
   
 More lessons will be added as I continue studying.
 
