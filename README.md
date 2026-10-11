@@ -22,10 +22,10 @@ I am studying HSK 4 step by step and using this repository to organize and share
 * Lesson 6
 * Lesson 7
 * Lesson 8
-* lesson 9
-* lesson 10
-* lesson 11
-* lesson 12
+* Lesson 9
+* Lesson 10
+* Lesson 11
+* Lesson 12
   
   
 More lessons will be added as I continue studying.
