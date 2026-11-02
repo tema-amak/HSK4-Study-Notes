@@ -31,6 +31,9 @@ I am studying HSK 4 step by step and using this repository to organize and share
 * Lesson 15
 * Lesson 16
 * Lesson 17
+* Lesson 18
+* Lesson 19
+* Lesson 20
   
   
 More lessons will be added as I continue studying.
